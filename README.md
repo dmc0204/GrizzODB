@@ -1,3 +1,10 @@
+#GrizzODB
+
+##This was a messy group project and the first using these technologies. It did offer experience working with what was Cloud9 and is now AWS Cloud9. I have better examples of one day interactive website builds.
+
+-Donovan Cummins
+
+
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
